@@ -35,3 +35,19 @@ Build → Delete → Rewrite → Restart → Burnout
 - 📌 Progress beats polish.
 - 📌 A completed small project > a perfect unfinished one.
 - 📌 You can improve on it later — after you finish version 1.
+
+---
+
+### 🧠 If you don’t know what structure to use → Ask these 3 questions
+
+1️⃣ Do I need to store many values?
+
+- If yes → Array
+
+2️⃣ Do I need to count/track occurrences?
+
+- Object or Map
+
+3️⃣ Do I need uniqueness only?
+
+- Set
