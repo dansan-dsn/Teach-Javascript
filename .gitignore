@@ -1,1 +1,9 @@
 api-result.md
+.vscode/
+.DS_Store
+node_modules/
+dist/
+.env
+coverage/
+.idea/
+*.log
